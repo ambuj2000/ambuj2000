@@ -5,7 +5,7 @@ C++||PYTHON||HTML||CSS||JAVASCRIPT
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Android
+- 🔭 I’m currently working on ML
 - 🌱 I love Problem Solving
 - 👯 I'm a machine learning enthusiast 
 - 🤔 I’m looking forward to contribute on  front-end dev
