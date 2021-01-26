@@ -1,4 +1,5 @@
 ### Hi there 👋
+C++||PYTHON||HTML||CSS||JAVASCRIPT
 
 
 
