@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Android
 - 🌱 I love Problem Solving
 - 👯 I'm a machine learning enthusiast 
-- 🤔 I’m looking forward to contribute on android and front-end dev
+- 🤔 I’m looking forward to contribute on  front-end dev
 
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
