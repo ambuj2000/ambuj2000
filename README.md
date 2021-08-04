@@ -25,7 +25,7 @@ C++ || PYTHON || HTML || CSS || JAVASCRIPT
 <br>
 <br>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ambuj2000&theme=dark)](https://github.com/ambuj2000/github-readme-stats)
+[![Ambuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambuj2000&theme=dark)](https://github.com/ambuj2000/github-readme-stats)
 
 
 <!--- 💬 Ask me about ...
