@@ -1,8 +1,12 @@
 ### Hi there I'M Ambuj 👋
-C++ || PYTHON || HTML || CSS || JAVASCRIPT                                                   
+C++ || PYTHON || HTML || CSS || JAVASCRIPT    
 
-<image src="https://media.tenor.com/images/444c69862a3df2a249feb98557785f7a/tenor.gif" width=250px align="right" align="top"/>
 
+ 
+<image id="position1" src="https://media.tenor.com/images/444c69862a3df2a249feb98557785f7a/tenor.gif" width=250px />
+#position1{
+position:10px;
+}
 
 
 
