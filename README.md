@@ -2,7 +2,7 @@
 
 
 
-### Hi there I'M Ambuj 👋
+## Hi there I'M Ambuj 👋
 C++ || PYTHON || HTML || CSS || JAVASCRIPT    
 
 
