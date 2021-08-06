@@ -42,4 +42,6 @@ C++ || PYTHON || HTML || CSS || JAVASCRIPT
 - ⚡ Fun fact: ...
 
 -->
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ambuj2000&theme=dracula)](https://github.com/ambuj2000/github-readme-activity-graph)
+
 ![Visitor Count](https://profile-counter.glitch.me/{ambuj2000}/count.svg)
