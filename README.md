@@ -5,7 +5,7 @@ C++ || PYTHON || HTML || CSS || JAVASCRIPT
  
 <image id="position1" src="https://media.tenor.com/images/444c69862a3df2a249feb98557785f7a/tenor.gif" width=250px />
 #position1{
-position:10px;
+position: 100% 10%;
 }
 
 
