@@ -1,4 +1,4 @@
-<image align="right" src="https://media.tenor.com/images/444c69862a3df2a249feb98557785f7a/tenor.gif" width=250px />
+<image align="right" src="https://media.tenor.com/images/444c69862a3df2a249feb98557785f7a/tenor.gif" width=250px  height=150px/>
 
 
 
