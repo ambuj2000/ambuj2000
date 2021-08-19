@@ -1,4 +1,4 @@
-<image align="right" src="https://media.tenor.com/images/444c69862a3df2a249feb98557785f7a/tenor.gif" width=260px />
+<image align="right" src="https://media.tenor.com/images/444c69862a3df2a249feb98557785f7a/tenor.gif" width=300px />
 
 
 
@@ -42,6 +42,6 @@ C++ || PYTHON || HTML || CSS || JAVASCRIPT
 - ⚡ Fun fact: ...
 
 -->
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ambuj2000&theme=dracula)](https://github.com/ambuj2000/github-readme-activity-graph)
+[![Ambuj's github activity graph](https://activity-graph.herokuapp.com/graph?username=ambuj2000&theme=dracula)](https://github.com/ambuj2000/github-readme-activity-graph)
 
 ![Visitor Count](https://profile-counter.glitch.me/{ambuj2000}/count.svg)
