@@ -33,7 +33,7 @@ C++ || PYTHON || HTML || CSS || JAVASCRIPT
 <br>
 <br>
 
-[![Ambuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambuj2000)](https://github.com/ambuj2000/github-readme-stats)
+![Ambuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambuj2000&show_icons=true)
 
 
 <!--- 💬 Ask me about ...
