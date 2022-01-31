@@ -39,6 +39,7 @@ C++ || PYTHON || HTML || CSS || JAVASCRIPT
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ![Ambuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambuj2000&show_icons=true)
+<img align="center" src="https://camo.githubusercontent.com/1d56c34bccac3e473ee6ace7bb5a5424a427d769c7dcf8606a1f9f2309b79576/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374267468656d653d627565667926686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambuj2000&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;">
 
 
 
@@ -50,20 +51,6 @@ C++ || PYTHON || HTML || CSS || JAVASCRIPT
 -->
 [![Ambuj's github activity graph](https://activity-graph.herokuapp.com/graph?username=ambuj2000&theme=dracula)](https://github.com/ambuj2000/github-readme-activity-graph)
 
-<br>
-<br>
-<!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
 
 ![Visitor Count](https://profile-counter.glitch.me/{ambuj2000}/count.svg)
