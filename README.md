@@ -51,6 +51,10 @@ C++ || PYTHON || HTML || CSS || JAVASCRIPT
 -->
 [![Ambuj's github activity graph](https://activity-graph.herokuapp.com/graph?username=ambuj2000&theme=dracula)](https://github.com/ambuj2000/github-readme-activity-graph)
 
+<br>
+#🤝Connect with me
+<a href=”https://www.linkedin.com/in/ambujsingh1/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{ambuj2000}/count.svg)
