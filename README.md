@@ -38,8 +38,8 @@ C++ || PYTHON || HTML || CSS || JAVASCRIPT
 
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-![Ambuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambuj2000&show_icons=true)
-<img align="center" src="https://camo.githubusercontent.com/1d56c34bccac3e473ee6ace7bb5a5424a427d769c7dcf8606a1f9f2309b79576/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374267468656d653d627565667926686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambuj2000&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;">
+[![Ambuj’s github stats](https://github-readme-stats.vercel.app/api?username=ambuj2000)](https://github.com/ambuj2000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ambuj2000&layout=compact)](https://github.com/ambuj2000)
 
 
 
