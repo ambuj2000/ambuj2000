@@ -53,7 +53,7 @@ C++ || PYTHON || HTML || CSS || JAVASCRIPT
 
 <br>
 #🤝Connect with me
-<a href=”https://www.linkedin.com/in/ambujsingh1/"><img align=”left” src=”https://raw.githubusercontent.com/ambuj2000/ambuj2000/linkedin.png" alt=”Ambuj Singh | LinkedIn” width=”21px”/></a>
+[6]: http://www.github.com/ambuj2000
 
 
 
