@@ -54,9 +54,7 @@ C++ || PYTHON || HTML || CSS || JAVASCRIPT
 [![Ambuj's github activity graph](https://activity-graph.herokuapp.com/graph?username=ambuj2000&theme=dracula)](https://github.com/ambuj2000/github-readme-activity-graph)
 
 <br>
-🤝Connect with me
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />
-<img align="left" alt="ambujsingh1 LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+
 
 
 
