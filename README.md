@@ -4,7 +4,6 @@
 
 ## Hi there I'M Ambuj 👋
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 C++ || PYTHON || HTML || CSS || JAVASCRIPT    
 
@@ -37,6 +36,7 @@ C++ || PYTHON || HTML || CSS || JAVASCRIPT
 <br>
 
 ![Ambuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambuj2000&show_icons=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<ambuj2000>&theme=<THEME_NAME>" />
 
 
 <!--- 💬 Ask me about ...
