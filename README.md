@@ -36,7 +36,7 @@ C++ || PYTHON || HTML || CSS || JAVASCRIPT
 <br>
 
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+//![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 [![Ambuj’s github stats](https://github-readme-stats.vercel.app/api?username=ambuj2000)](https://github.com/ambuj2000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ambuj2000&layout=compact)](https://github.com/ambuj2000)
