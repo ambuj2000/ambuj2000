@@ -55,19 +55,8 @@ C++ || PYTHON || HTML || CSS || JAVASCRIPT
 
 <br>
 🤝Connect with me
-<!-- Actual text -->
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />
+<img align="left" alt="ambujsingh1 LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 
 
