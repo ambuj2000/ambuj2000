@@ -56,7 +56,7 @@ C++ || PYTHON || HTML || CSS || JAVASCRIPT
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ambuj2000&theme=prussian)](https://git.io/streak-stats)
 
-[![Ambuj's github activity graph](https://activity-graph.herokuapp.com/graph?username=ambuj2000&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ambuj2000/github-readme-activity-graph)
+[![Ambuj's github activity graph](https://activity-graph.herokuapp.com/graph?username=ambuj2000&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
