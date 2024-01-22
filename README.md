@@ -40,8 +40,8 @@ C++ || PYTHON || HTML || CSS || JAVASCRIPT
 
 <!--![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)-->
 
-[![Ambuj’s github stats](https://github-readme-stats.vercel.app/api?username=ambuj2000&theme=prussian)](https://github.com/ambuj2000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ambuj2000&layout=compact&theme=prussian)](https://github.com/ambuj2000)
+[![Ambuj’s github stats](https://github-readme-stats.vercel.app/api?username=ambuj2000&theme=rogue)](https://github.com/ambuj2000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ambuj2000&layout=compact&theme=rogue)](https://github.com/ambuj2000)
 
 
 
@@ -54,7 +54,7 @@ C++ || PYTHON || HTML || CSS || JAVASCRIPT
 - 📫 Connect 🤝 me on:</t>
  <a href="https://www.linkedin.com/in/ambujsingh1" rel="nofollow"><img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ambuj2000&theme=prussian)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ambuj2000&theme=rogue)](https://git.io/streak-stats)
 
 [![Ambuj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ambuj2000&theme=rogue)](https://github.com/ambuj2000/github-readme-activity-graph)
 
