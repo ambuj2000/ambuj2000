@@ -20,7 +20,6 @@ C++ || PYTHON || HTML || CSS || JAVASCRIPT
 
 
 - 🔭 I love Deep neural nets but currently working on Java & Spring Boot
-- 🌱 I love Problem Solving
 - 👨‍💻 I'm a machine learning enthusiast 
 - 🤔 I’m looking forward to contribute on  front-end dev
 -  I have good knowledge in  JavaScript and react js
