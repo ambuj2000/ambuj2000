@@ -20,9 +20,7 @@ C++ || PYTHON || HTML || CSS || JAVASCRIPT
 
 
 - 🔭 I love Deep neural nets but currently working on Java & Spring Boot
-- 👨‍💻 I'm a machine learning enthusiast 
-- 🤔 I’m looking forward to contribute on  front-end dev
--  I have good knowledge in  JavaScript and react js
+- 👨‍💻 Inspired by Andrej Karpathy
   <br>
 **Languages and Tools I use:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
