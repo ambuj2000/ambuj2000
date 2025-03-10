@@ -6,8 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ambuj2000)
 
-
-C++ || PYTHON || HTML || CSS || JAVASCRIPT    
+  
 
 
  
@@ -19,7 +18,7 @@ C++ || PYTHON || HTML || CSS || JAVASCRIPT
 
 
 
-- 🔭 I love Deep neural nets but currently working on Java & Spring Boot
+- 🔭 I love Deep neural nets currently Maths & ML
 - 👨‍💻 Inspired by Andrej Karpathy & George Hotz
   <br>
 
